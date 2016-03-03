@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sensor Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="plot_view">Plot View</string>
+    <string name="title_activity_prox_plot">proxPlot</string>
+</resources>
